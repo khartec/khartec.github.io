@@ -23,6 +23,7 @@ twitter_username: khartec
 github_username:  khartec
 
 # Build settings
+source: blog
 markdown: kramdown
 theme: minima
 plugins:
