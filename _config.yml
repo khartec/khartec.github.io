@@ -24,7 +24,8 @@ github_username:  khartec
 
 # Build settings
 source: blog
-exclude: css
+header_pages: 
+  - about.md
 markdown: kramdown
 theme: minima
 plugins:
